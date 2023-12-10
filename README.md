@@ -4,10 +4,9 @@ Software Engineer with more than 10 years of experience in backend development, 
 [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/mrezagolestan/)
 [![Email](https://img.shields.io/badge/email-f0f0f0?&style=for-the-badge&logo=email&logoColor=white&color=ea4335)](mailto:mreza_golestan@live.com) 
 
-### Backend Languages
-<a href="https://php.net/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" title="PHP" width="60" height="60"/></a>
-<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" title="Golang" width="60" height="60"/></a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="Node.js" title="Node.js" width="60" height="60"/></a>
+### Backend Languages & Frameworks
+|<a href="https://php.net/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" title="PHP" width="60" height="60"/></a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" title="Laravel" width="30" height="30"/></a> <a href="https://symfony/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="Symfony" title="Symfony" width="30" height="30"/></a> | <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" title="Golang" width="60" height="60"/></a> <a href="https://gofiber.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" alt="Fiber" title="Fiber" width="40" height="40"/></a> | <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="Node.js" title="Node.js" width="60" height="60"/></a> <a href="https://expressjs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" title="Express.js" width="30" height="30"/></a>|
+|---|---|---|
 
 ### Data
 <a href="https://mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" title="MySQL" width="30" height="30"/></a>
