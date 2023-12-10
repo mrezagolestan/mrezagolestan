@@ -31,6 +31,7 @@ Software Engineer with more than 10 years of experience in backend development, 
 
 ### Others
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="30" height="30"/></a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://blog.frankel.ch/assets/resources/github-actions-maven-releases/git-hub-actions.svg" alt="Github Actions" title="Github Actions" width="30" height="30"/></a>
 <a href="https://en.wikipedia.org/wiki/SOLID" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/445313/principles-solid.svg" alt="SOLID" title="SOLID" width="30" height="30"/></a>
 <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/97554/clean-code.svg" alt="Clean Code" title="Clean Code" width="30" height="30"/></a>
 <a href="https://en.wikipedia.org/wiki/Design_Patterns" target="_blank" rel="noreferrer"><img src="https://refactoring.guru/images/patterns/content/index/full/patterns-01-2x.png?id=3c9d28bb5e9f11205b3878c6b9fcf566" alt="Design Patterns" title="Design Patterns" width="30" height="30"/></a>
