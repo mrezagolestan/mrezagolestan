@@ -1,5 +1,5 @@
 # Mohammad Reza Golestan 👋
-Software Engineer with more than 10 years of experience in backend development, mostly in PHP (Laravel, Symfony) and sometimes Golang & Node.js. eager to learn and share. Graduated M.S in Artificial Intelligence. Excited about ideate, solving problems, teamwork and leadership.
+CTO & Software Engineer with 14+ years of experience in backend development, mostly in PHP (Laravel, Symfony) and sometimes Golang & Node.js. eager to learn and share. Graduated M.S in Artificial Intelligence. Excited about ideate, solving problems, teamwork and leadership.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/mrezagolestan/)
 [![Email](https://img.shields.io/badge/email-f0f0f0?&style=for-the-badge&logo=email&logoColor=white&color=ea4335)](mailto:mreza_golestan@live.com) 
